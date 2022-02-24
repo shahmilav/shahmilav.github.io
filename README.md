@@ -4,4 +4,4 @@
 
 ---
 
-* [X] [shahmilav/jaguar](https://github.com/shahmilav/jaguar)
+* [X] $ [shahmilav/jaguar](https://github.com/shahmilav/jaguar)
