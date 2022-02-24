@@ -1,3 +1,7 @@
 ## Hello! My name is Milav
 
-and I am a 14 year old developer.
+### and these are my projects.
+
+---
+
+![shahmilav/jaguar](https://github.com/shahmilav/jaguar)
