@@ -1,13 +1,4 @@
-## ~/milav
+## ```~/milav``` -- my personal website.
 
-```bash
-cat projects.txt
-```
+View it live [here!](https://shahmilav.github.io/)
 
-### Here are my projects.
----
-
-* cd [shahmilav/jaguar](https://github.com/shahmilav/jaguar)
-* cd [shahmilav/pi-thon-calc](https://github.com/shahmilav/pi-thon-calc)
-* cd [shahmilav/moon-phase](https://github.com/shahmilav/moon-phase)
-* cd [shahmilav/terminal-newtab](https://github.com/shahmilav/startpage)
